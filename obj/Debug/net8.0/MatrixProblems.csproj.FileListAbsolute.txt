@@ -1,0 +1,14 @@
+C:\Users\rabsr\source\repos\MatrixProblems\bin\Debug\net8.0\MatrixProblems.exe
+C:\Users\rabsr\source\repos\MatrixProblems\bin\Debug\net8.0\MatrixProblems.deps.json
+C:\Users\rabsr\source\repos\MatrixProblems\bin\Debug\net8.0\MatrixProblems.runtimeconfig.json
+C:\Users\rabsr\source\repos\MatrixProblems\bin\Debug\net8.0\MatrixProblems.dll
+C:\Users\rabsr\source\repos\MatrixProblems\bin\Debug\net8.0\MatrixProblems.pdb
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.AssemblyInfoInputs.cache
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.AssemblyInfo.cs
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.csproj.CoreCompileInputs.cache
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.dll
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\refint\MatrixProblems.dll
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.pdb
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\MatrixProblems.genruntimeconfig.cache
+C:\Users\rabsr\source\repos\MatrixProblems\obj\Debug\net8.0\ref\MatrixProblems.dll
